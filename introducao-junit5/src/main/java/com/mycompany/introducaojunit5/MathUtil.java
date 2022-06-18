@@ -5,10 +5,6 @@
  */
 package com.mycompany.introducaojunit5;
 
-/**
- *
- * @author patricia
- */
 
 public class MathUtil {
   public static int mdd(int a, int b){
