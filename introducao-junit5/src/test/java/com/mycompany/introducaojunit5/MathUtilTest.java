@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class MathUtilTest {
 
-    //sao  teste da propiedade 1
+    //São  teste da propiedade 1
     @Test
     public void testSomeMethodAparP1() {
         final int a = 6;
@@ -21,7 +21,7 @@ public class MathUtilTest {
         int obtido = MathUtil.mdd(a, b);
         assertEquals(esperado, obtido);
     }
-    //sao  teste da propiedade 1
+    //São teste da propiedade 1
 
     void testMdcAImparP1() {
         final int a = 9;
