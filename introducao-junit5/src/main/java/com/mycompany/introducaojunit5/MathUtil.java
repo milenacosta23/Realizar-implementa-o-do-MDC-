@@ -11,12 +11,13 @@ public class MathUtil {
       //codigo propiedade 7
      a = Math.abs(a);
      b = Math.abs(b);
+    
       //propiedade 6 
       final int maior = Math.max(a, b);
       b = Math.min(a, b);
       a = maior;
       
-      //odigo propiedade 1
+      //codigo propiedade 1
       if(b > 0 && a % b == 0){
           return b;
       }
@@ -24,7 +25,7 @@ public class MathUtil {
       if(b == 0){
           return Math.abs(a);
       }
-      //c0digo propiedade 5
+      //codigo propiedade 5
       if (a % b != 0){
       return 1;
       
