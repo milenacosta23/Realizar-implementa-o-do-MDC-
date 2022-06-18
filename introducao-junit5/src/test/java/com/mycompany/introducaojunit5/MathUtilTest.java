@@ -9,10 +9,7 @@ import static com.mycompany.introducaojunit5.MathUtil.mdd;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- *
- * @author patricia
- */
+
 public class MathUtilTest {
 
     //sao  teste da propiedade 1
